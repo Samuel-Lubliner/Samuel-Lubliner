@@ -4,7 +4,7 @@
 
 🌱 I completad a Full Stack Software Development Apprentiship with DPI.
 
-⚡ Fun fact: I am a rock climbing coach and instuctor
+⚡ Fun fact: I am a rock climbing coach and instuctor.
 
 ### My Tech Stack
 
