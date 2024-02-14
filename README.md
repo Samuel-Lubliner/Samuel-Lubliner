@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on an Open Educational Resource for learning Descrete Math with SageMath.
 
-👀 <a href="https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html" target="_blank">Discrete Math with SageMath: Learn math with open-source software</a>
+👀 [Discrete Math with SageMath: Learn math with open-source software](https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html)
 
 
 
