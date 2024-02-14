@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on an Open Educational Resource for learning Descrete Math with SageMath.
 
+👀 [Discrete Math with SageMath: Learn math with open-source software](https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html)
+
 🌱 I completad a Full Stack Software Development Apprentiship with DPI.
 
 ⚡ Fun fact: I am a rock climbing coach and instuctor.
