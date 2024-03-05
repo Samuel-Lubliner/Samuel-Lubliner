@@ -1,6 +1,6 @@
 ### Hi, I'm Sam Lubliner 👋
 
-🔭 I’m currently working on an Open Educational Resource for learning Discrete Math with SageMath.
+🔭 I’m currently working on an Open Educational Resource for teaching Discrete Math with SageMath.
 
 👀 [Discrete Math with SageMath: Learn math with open-source software](https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html)
 
