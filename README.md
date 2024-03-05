@@ -4,9 +4,9 @@
 
 👀 [Discrete Math with SageMath: Learn math with open-source software](https://sagemathoer-ccc.github.io/sage-discrete-math/Discrete-Math-with-SageMath.html)
 
-🌱 I completad a Full Stack Software Development Apprentiship with DPI.
+🌱 I completed a Full Stack Software Development Apprenticeship with DPI.
 
-⚡ Fun fact: I am a rock climbing coach and instuctor.
+⚡ Fun fact: I am a rock climbing coach and instructor.
 
 ### My Tech Stack
 
